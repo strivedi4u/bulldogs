@@ -21,6 +21,11 @@
 
 **Bulldogs** is a robust, scalable, and enterprise-ready Node.js backend framework designed for modern web applications. Built with performance, security, and maintainability in mind, it provides a solid foundation for building RESTful APIs and microservices.
 
+## 🏠 Home Page Preview
+
+![Bulldog Adoption Homepage](https://github.com/strivedi4u/bulldogs/blob/main/image.png))
+
+
 ---
 
 ## 📸 Screenshots & Demo
