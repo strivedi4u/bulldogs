@@ -23,9 +23,22 @@
 
 ## 🏠 Home Page Preview
 
-![Bulldog Adoption Homepage](https://github.com/strivedi4u/bulldogs/blob/main/image.png))
+![Bulldog Adoption Homepage](https://github.com/strivedi4u/bulldogs/blob/main/image.png)
 
+---
 
+## 📦 Monorepo Structure
+
+- **Backend:** (you are here!)  
+  - Repository: [`strivedi4u/bulldogs`](https://github.com/strivedi4u/bulldogs)
+  - Built with: JavaScript (99.9%), Shell (0.1%)
+  - Handles APIs, authentication, data storage, and business logic
+
+- **Frontend:**  
+  - Repository: [`strivedi4u/puppies`](https://github.com/strivedi4u/puppies)
+  - Renders UI, handles user interaction, fetches data from this backend
+
+---
 ---
 
 ## 📸 Screenshots & Demo
